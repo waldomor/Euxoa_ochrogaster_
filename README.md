@@ -23,4 +23,4 @@ Cross-validation is performed, and the AUC is computed. In addition, accuracy, t
 The scope of Resolution_enhancer.R is to enhance the resolution of rasters, using an interpolation process.
 <br>
 <br>
-The complete respository can be shared privately.
+To use R code you need to install R software and R studio (matching the same version), and install terra package, as through CRAN. To use Python code you need to install python and through pip install all the necessary libraries, present as import, through the terminal
