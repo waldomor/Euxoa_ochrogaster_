@@ -21,3 +21,6 @@ Cross-validation is performed, and the AUC is computed. In addition, accuracy, t
 <br>
 <br>
 The scope of Resolution_enhancer.R is to enhance the resolution of rasters, using an interpolation process.
+<br>
+<br>
+The complete respository can be shared privately.
