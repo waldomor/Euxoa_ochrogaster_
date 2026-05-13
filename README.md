@@ -25,4 +25,4 @@ The scope of Resolution_enhancer.R is to enhance the resolution of rasters, usin
 To use R code you need to install R software and R studio (matching the same version), and install terra package, as through CRAN. To use Python code you need to install Python and through pip install all the necessary libraries, present as import, through the terminal.
 <br>
 <br>
-this is part of the code, to see all the listed code you should visit the gitfront repository 
+This is part of the code, to see all the listed code you should visit the gitfront repository.
