@@ -1,6 +1,6 @@
 <h3><i>Euxoa ochrogaster</i> Guenée, 1852 repository</h3>
 
-This repository was developed to predict <i>Euxoa ochrogaster</i> larvae outbreak in Manitoba state of Canada, through a deep learning architecture, using Python (Python Software Foundation, 2024).
+This repository was developed to predict <i>Euxoa ochrogaster</i> (Lepidoptera: Noctuidae) larvae outbreak in Manitoba state of Canada, through a deep learning architecture, using Python (Python Software Foundation, 2024).
 <br>
 <br>
 
